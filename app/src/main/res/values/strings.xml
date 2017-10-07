@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android_sysu</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="password">密码：</string>
+    <string name="student_id">学号：</string>
+    <string name="student">学生</string>
+    <string name="teacher">教职工</string>
+    <string name="id_hint">请输入学号</string>
+    <string name="title">中山大学学生信息系统</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+</resources>
