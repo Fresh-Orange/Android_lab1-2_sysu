@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="sysu_height">18sp</dimen>
+    <dimen name="goods_font_size">18sp</dimen>
+    <dimen name="goods_first_letter_size">28sp</dimen>
 </resources>

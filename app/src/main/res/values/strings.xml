@@ -9,4 +9,12 @@
     <string name="title">中山大学学生信息系统</string>
     <string name="login">登录</string>
     <string name="register">注册</string>
+    <string name="yes">确定</string>
+    <string name="cancel">取消</string>
+    <string name="upload">上传头像</string>
+    <string name="photo">拍摄</string>
+    <string name="album">从相册选择</string>
+    <string name="photo_hint">您选择了[拍摄]</string>
+    <string name="album_hint">您选择了[从相册选择]</string>
+    <string name="cancel_hint">您选择了[取消]</string>
 </resources>
